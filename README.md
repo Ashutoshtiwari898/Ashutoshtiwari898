@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashutoshtiwari898" alt="Ashutoshtiwari898" /></a> </p>
 
-- 🔭 I’m currently working on [QuickTask - Task Manager](https://github.com/Ashutoshtiwari898/File-Share)
+- 🔭 I’m currently working on [File-Share](https://github.com/Ashutoshtiwari898/File-Share)
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, EJS, ReactJS, Nextjs**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **9895145@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1kORxkipvh41iXySSQy9NrgZ9CJr5XzqO](https://drive.google.com/drive/folders/1kORxkipvh41iXySSQy9NrgZ9CJr5XzqO)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
 
 - ⚡ Fun fact **Coders are always confused!**
 
