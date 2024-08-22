@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshtiwari898&theme=onedark" alt="github-trophy" />
 </p>
-🔭 Currently working on File-Share
+🔭  I’m currently working on [File-Share](https://github.com/Ashutoshtiwari898/File-Share)
 
 🌱 Learning Node.js, Express.js, EJS, React.js, Next.js
 
@@ -11,7 +11,7 @@
 
 📫 Reach me at 9895145@gmail.com
 
-📄 Check out my resume
+📄 Check out my resume [https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
 
 ⚡ Fun fact: Coders are always figuring things out!
 
