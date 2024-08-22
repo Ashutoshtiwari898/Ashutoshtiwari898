@@ -1,21 +1,17 @@
-<h1 align="center">Hi there, I'm Ashutosh Kumar Tiwari 👋</h1>
-<h3 align="center">Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer</h3>
+<h1 align="center">👋 Hi there, I'm **Ashutosh Kumar Tiwari**</h1>
+<h3 align="center">**Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer**</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshtiwari898&theme=onedark" alt="github-trophy" />
 </p>
-🔭  I’m currently working on [File-Share](https://github.com/Ashutoshtiwari898/File-Share)
-
-🌱 Learning Node.js, Express.js, EJS, React.js, Next.js
-
-💬 Ask me about C/C++, Java, HTML/CSS, Shell Scripting, JavaScript, Node.js, Express.js, EJS, React.js, Next.js
-
-📫 Reach me at 9895145@gmail.com
-
-📄 Check out my resume [https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
-
+🚀 About Me
+🔭 Currently working on:  [File-Share]
+(https://github.com/Ashutoshtiwari898/File-Share)
+🌱 Learning: Node.js, Express.js, EJS, React.js, Next.js
+💬 Ask me about: C/C++, Java, HTML/CSS, Shell Scripting, JavaScript, Node.js, Express.js, EJS, React.js, Next.js
+📫 Reach me at: 9895145@gmail.com
+📄 Check out my resume: [https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
 ⚡ Fun fact: Coders are always figuring things out!
-
-<h3 align="center">Connect with me</h3>
+🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-kumar-tiwari-36a24b2a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -24,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-<h3 align="center">Languages and Tools</h3>
+🛠️ Languages & Tools
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -84,7 +80,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
-<h3 align="center">GitHub Stats</h3>
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshtiwari898&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
