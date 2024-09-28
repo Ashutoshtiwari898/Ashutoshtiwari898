@@ -14,7 +14,7 @@
 
 📄 Check out my resume [https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
 
-⚡ Fun fact: Coders are always figuring things out!
+⚡ Fun fact: {Ashu@#8987}Coders are always figuring things out!
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
