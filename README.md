@@ -3,10 +3,6 @@
   Software Developer | <b>DSA & Problem Solving</b> | Aspiring <b>Full-Stack MERN Engineer</b>
 </h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshtiwari898&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
 <hr/>
 
 <h3>🚀 <b>About Me</b></h3>
@@ -95,17 +91,4 @@ View Resume
   <a href="https://leetcode.com/u/Ashutiwari56/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
-</p>
-
-<hr/>
-
-<h3 align="center">📊 <b>GitHub Stats</b></h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshtiwari898&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshtiwari898&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshtiwari898" />
 </p>
